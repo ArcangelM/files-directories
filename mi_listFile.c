@@ -7,7 +7,7 @@
 #include <string.h> 
 
 /*IMPLEMENTACION DE LISTFIEL (Punto 2) 
-    POR: ARCANGEL MARIN - JUAN CARLOS LONDOÑO*/ 
+    POR: ARCANGEL MARIN - JUAN CARLOS LONDOÑO*/
 
 int main(int argc, char **argv)
   
