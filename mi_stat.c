@@ -5,7 +5,7 @@
 #include <sys/types.h>
  
 /*IMPLEMENTACION DEL COMANDO STAT() 
-    POR: ARCANGEL MARIN - JUAN CARLOS LONDOÑO*/ 
+    POR: ARCANGEL MARIN - JUAN CARLOS LONDOÑO */
 
 int main(int argc, char **argv)
 {
